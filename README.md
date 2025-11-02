@@ -143,8 +143,8 @@ This rebuilds the `bug_reports` and `user_feedback` collections so retrieval too
 
 Watch the AI Assistant in action:
 
-<video src="https://github.com/chanathip-tor/chatbot/blob/main/demo-ai-assistant.mov?raw=true" controls width="720"></video>
+<video src="https://drive.google.com/file/d/1N4uyD-MqXImEUuQzjWHdDc6dc8X6tB1T/view?usp=sharing" controls width="720"></video>
 
 Alternatively, you can click the thumbnail below:
 
-[![Watch the Demo](assets/demo-thumbnail.png)](https://github.com/chanathip-tor/chatbot/blob/main/demo-ai-assistant.mov?raw=true)
+[![Watch the Demo]](https://drive.google.com/file/d/1N4uyD-MqXImEUuQzjWHdDc6dc8X6tB1T/view?usp=sharing)
