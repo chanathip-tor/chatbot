@@ -48,7 +48,7 @@ if "messages" not in st.session_state:
 
 with st.sidebar:
     st.header("Settings")
-    api_base = st.text_input("API base URL", value=os.getenv("API_BASE_URL", "http://localhost:8000"))
+    api_base = st.text_input("API base URL", value=os.getenv("API_BASE_URL", "http://api:8000")) 
     provided_key = st.text_input(
         "OpenAI API Key",
         value=os.getenv("OPENAI_API_KEY", ""),

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# VCS/IDE
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+
+# Notebooks / data / artifacts
+*.ipynb
+.ipynb_checkpoints/
+data/
+test/
+vectorstore/chroma_db/
+
+# Media / big files
+*.mov
+*.mp4
+*.zip
+*.tar
+*.gz
+
+# Environment
+.env
+.env.*
